@@ -1,4 +1,4 @@
-# 41 Dicas de SQL para desenvolvedores: Soluções práticas para desafios comuns
+# Dicas de SQL para desenvolvedores: Soluções práticas para desafios comuns
 
 Essa é uma tradução livre sobre o e-book escrito pelo Tobias Petry escritor do [SQL For Devs](https://sqlfordevs.com/) 
 
