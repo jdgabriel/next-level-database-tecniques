@@ -1,0 +1,5 @@
+# Manipulação dos dados
+
+Um banco de dados sem qualquer `INSERT` , `UPDATE` ou `DELETE` consulta seria uma aplicação pouco valiosa. Embora algumas aplicações existam apenas com conteúdo estático, elas são a exceção e você terá que fazer modificações de dados o tempo todo. Enquanto isso parece ser a funcionalidade mais simples em SQL, ainda há espaço para melhorias em suas aplicações. Sempre lembre-se de que o número de operações de gravação que seu disco pode fazer em um segundo é muito limitado. Se você puder reduzir as operações por segundo, sua aplicação será muito mais performática. 
+
+O capítulo de manipulação de dados ensinará truques para atualizar linhas com base em informações em outras tabelas, excluir linhas duplicadas ou tornar sua aplicação mais rápida removendo contenção de bloqueio. Você deve estudar a última dica de perto, pois muitas vezes encontrei isso como um problema de desempenho.
